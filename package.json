@@ -3,7 +3,7 @@
     "bcrypt": "^5.1.1",
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
-    "mysql2": "^3.14.0",
+    "mysql2": "^3.14.1",
     "nodemon": "^3.1.10"
   },
   "name": "provahopi",
@@ -17,7 +17,6 @@
   "author": "",
   "license": "ISC",
   "description": "Integração de back-front-Db no Hopi Hari",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Thspli/Hopi-Pardal.git"
