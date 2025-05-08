@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
 }
 
-.header {
+header {
     background-color: #FF6B00;
     color: white;
     padding: 15px 0;
